@@ -9,6 +9,8 @@ Dibangun menggunakan **HTML**, **CSS**, dan **JavaScript** murni — tanpa frame
 > ✨ *"WEDDING ANNOUNCEMENT – Tiffany & Jared"*  
 Website undangan digital dengan efek transisi lembut, musik latar romantis, countdown acara, dan formulir ucapan doa.
 
+Hasil:
+https://yaasin36.github.io/WeddingAnnouncement/
 ---
 
 ## 🌸 Fitur Utama
